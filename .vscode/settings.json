@@ -1,0 +1,35 @@
+{
+    "git.autofetch": true,
+    // "editor.formatOnSave": true,
+    "editor.defaultFormatter": "standard.vscode-standard",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    },
+    "editor.suggestSelection": "first",
+    "standard.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "standard.usePackageJson": false,
+    "yaml.schemas": {
+      "file:///Users/fc19146/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "standard.autoFixOnSave": true,
+    "standard.enable": true,
+    "standard.enableGlobally": true,
+    "standard.run": "onType",
+}
